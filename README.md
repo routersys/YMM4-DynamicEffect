@@ -51,7 +51,7 @@ RMS・ピークの2種類の検出モード、アタック・リリース時間�
  
 ## インストール方法
  
-1. [Releases](https://github.com/routersys/YMM4-DynamicEffect/releases) ページから最新のプラグインファイル（`.ymme`）をダウンロードしてください。
+1. [Releases](https://github.com/routersys/YMM4-DynamicEffect/releases/latest) ページから最新のプラグインファイル（`.ymme`）をダウンロードしてください。
 2. YMM4 が起動していないことを確認し、ダウンロードしたファイルを実行（ダブルクリック）してインストールします。
 3. YMM4 を起動し、タイムライン上の音声アイテムを選択します。
 4. 音声エフェクトの追加から **「条件分岐ダイナミクス」** を選択してください。
